@@ -1,0 +1,264 @@
+
+.hert {
+    color: white;
+    text-shadow: 3px 4px  5px red;
+     width: 80%;
+     border-radius: 15px;
+      padding: 25px 20px;
+      margin: 30px auto;
+      box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.5);
+      
+      background-position: top;
+      background-repeat: no-repeat;
+      background: linear-gradient( 40deg, darkblue, darkred);
+}
+
+/* صلي علي النبي */
+
+h2{
+    color: indigo;
+    margin-left: 20px;
+}
+
+
+.h{
+    color: indigo;
+}
+
+.img-11{
+    height: 300px;
+    border-radius: 10px;
+    display: block;
+    margin: 50px auto;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease;
+}
+
+.img-11:hover {
+    transform: scale(1.05);
+}
+
+.img-300{
+    height: 300px;
+    width: 550px;
+    border-radius: 10px;
+    display: block;
+    margin: 50px auto;
+     box-shadow: 0 8px 15px rgba(0,0,0,0.5);
+     transition: transform 0.3s ease;
+}
+
+.img-300:hover {
+    transform: scale(1.05);
+}
+
+
+.img-250{
+    height: 300px;
+    width: 550px;
+    border-radius: 10px;
+    display: block;
+    margin: 50px auto;
+     box-shadow: 0 8px 15px rgba(0,0,0,0.5);
+    transition: transform 0.3s ease;
+}
+
+.img-250:hover {
+    transform: scale(1.05);
+}
+
+del{
+    color:darkgrey ;
+}
+
+.grean{
+     color: #4CAF50;
+    font-weight: 0; /* أسمك من bold */
+    font-size: 1em;
+    font-family: 'Arial Black', 'Impact', sans-serif;
+}
+
+.grean:hover {
+    transition: 0.6s ease-in-out;
+    font-size: 20px;
+}
+
+li .color {
+     color: rgb(37, 37, 247);
+}
+
+p:hover{
+color: green;
+}
+
+
+ li .color:hover{
+color: green;
+transition: 0.6s ease-in-out
+}
+
+
+body {
+      font-family: 'Arial', sans-serif;
+    background-color: #1a1a1a; 
+    color: #f0f0f0;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+
+.img-30{
+    height: 300px;
+    width: 550px;
+    border-radius: 10px;
+    display: block;
+    margin: 50px auto;
+     box-shadow: 0 8px 15px rgba(0,0,0,0.5);
+     transition: transform 0.3s ease;
+}
+
+.img-30:hover {
+    transform: scale(1.05);
+}
+
+.img-1{
+        height: 300px;
+        width: 550px;
+    border-radius: 10px;
+    display: block;
+    margin: 50px auto;
+     box-shadow: 0 8px 15px rgba(0,0,0,0.5);
+     transition: transform 0.3s ease;
+}
+
+.img-1:hover {
+    transform: scale(1.05);
+}
+
+.img-2{
+    height: 300px;
+    width: 550px;
+    border-radius: 10px;
+    display: block;
+    margin: 50px auto;
+    box-shadow: 0 8px 15px rgba(0,0,0,0.5);
+    transition: transform 0.3s ease;
+}
+
+.img-2:hover{
+    transform: scale(1.05);
+}
+
+.img-3{
+     height: 300px;
+     width: 550px;
+    border-radius: 10px;
+    display: block;
+    margin: 50px auto;
+     box-shadow: 0 8px 15px rgba(0,0,0,0.5);
+     transition: transform 0.3s ease;
+}
+
+.img-3:hover {
+    transform: scale(1.05);
+}
+
+video, audio {
+    display: block;
+    margin: 20px auto;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+}
+
+p {
+    transition: 0.6s ease-in-out;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+input {
+    margin: 25px;
+    border-radius: 40px;
+    background-color: #1a1a1a;
+    box-shadow: 0px 4px 15px black;
+    width: 40%;
+    height: 6%;
+    color: white;
+    border: 2px solid darkred;
+    margin-left: 430px;
+    outline: none;
+}
+
+.cs {
+    font-size: 18px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.koky {
+    background-image: url(pou.jpeg);
+    height: 750px;
+background-repeat: no-repeat;
+}
+
+i {
+    margin-left: 50%;
+}
+
+.hag {
+    width: 50%;
+}
+
+.ai {
+    text-align: center;
+}
+
+.fet {
+    width: 38%;
+    margin-left: 5px;
+ 
+
+
+}
+
+.cerez {
+    color: rgb(37, 37, 247);
+    margin-left: 20px;
+}
+
+.cerez:hover {
+    color: #4CAF50;
+    transition: 0.6s ease-in-out;
+}
+
+.wew {
+    width: 25%;
+    margin-left: 20px;
+   
+}
+
+.rrr {
+border-left: 7px solid deepskyblue;
+background-color:  darkgrey;
+width: 590px;
+padding-left: 5px;
+border-radius: 5px;
+}
+hr{
+
+                background-color: white;
+                border: none;
+                box-shadow:  0 0 15px orangered;
+                
+                 height: 4px;
+                  border: none;
+                  background: linear-gradient(to right, red, blue, red);
+}
